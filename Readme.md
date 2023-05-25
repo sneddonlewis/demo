@@ -1,6 +1,6 @@
-##A Reference point for C++ Projects
+## A Reference point for C++ Projects
 
-###Build
+### Build
 Make a build directory and invoke the cmake command from the build directory.  
 Run the `Makefile` generated from the `CMakeLists.txt` file.
 ```
@@ -9,7 +9,7 @@ cmake ..
 make
 ```
 
-###Vim Stuff
+### Vim Stuff
 To format a file with `astyle`  
 ```
 :%!astyle
